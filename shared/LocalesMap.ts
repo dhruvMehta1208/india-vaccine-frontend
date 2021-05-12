@@ -47,4 +47,10 @@ export interface LocaleSchema {
   calling: string;
   callteam: string;
   disclaimer: string;
+  check_availability: {
+    heading: string;
+    text_field_placeholder: string;
+    find_vaccine_button: string;
+    description: string;
+  }
 }
