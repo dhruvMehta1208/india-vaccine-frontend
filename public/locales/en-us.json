@@ -21,5 +21,17 @@
     "text_field_placeholder": "Enter your Pincode or District name",
     "find_vaccine_button": "Find Vaccine",
     "description": "Everyone over 18 is now eligible for free, safe, and reliable COVID-19 vaccines in India. But it can be difficult to find out where and how to get a shot. Enter your zip code or area to find confirmed vaccination locations near you, and learn how to make an appointment."
+  },
+  "availability_results": {
+    "showing": "Showing",
+    "vaccination_centers": "Vaccination Centers",
+    "find_centers_button": "Find Centers"
+  },
+  "cvc_card": {
+    "ages": "Ages",
+    "cost": "Cost",
+    "vaccine_type": "Vaccine Type",
+    "book_on_cowin": "Book on Cowin",
+    "directions": "Directions"
   }
 }

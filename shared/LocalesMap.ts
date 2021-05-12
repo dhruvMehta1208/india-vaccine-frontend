@@ -52,5 +52,17 @@ export interface LocaleSchema {
     text_field_placeholder: string;
     find_vaccine_button: string;
     description: string;
+  },
+  availability_results: {
+    showing: string;
+    vaccination_centers: string;
+    find_centers_button: string;
+  },
+  cvc_card: {
+    ages: string;
+    cost: string;
+    vaccine_type: string;
+    book_on_cowin: string;
+    directions: string;
   }
 }
